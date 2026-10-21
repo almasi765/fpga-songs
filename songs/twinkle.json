@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "title": "小星星 · 60 BPM 慢速练习",
+  "notes": [
+    {
+      "midi": 60,
+      "start_ms": 0,
+      "duration_ms": 850
+    },
+    {
+      "midi": 60,
+      "start_ms": 1000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 67,
+      "start_ms": 2000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 67,
+      "start_ms": 3000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 69,
+      "start_ms": 4000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 69,
+      "start_ms": 5000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 67,
+      "start_ms": 6000,
+      "duration_ms": 1850
+    },
+    {
+      "midi": 65,
+      "start_ms": 8000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 65,
+      "start_ms": 9000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 64,
+      "start_ms": 10000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 64,
+      "start_ms": 11000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 62,
+      "start_ms": 12000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 62,
+      "start_ms": 13000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 60,
+      "start_ms": 14000,
+      "duration_ms": 1850
+    },
+    {
+      "midi": 67,
+      "start_ms": 16000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 67,
+      "start_ms": 17000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 65,
+      "start_ms": 18000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 65,
+      "start_ms": 19000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 64,
+      "start_ms": 20000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 64,
+      "start_ms": 21000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 62,
+      "start_ms": 22000,
+      "duration_ms": 1850
+    },
+    {
+      "midi": 67,
+      "start_ms": 24000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 67,
+      "start_ms": 25000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 65,
+      "start_ms": 26000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 65,
+      "start_ms": 27000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 64,
+      "start_ms": 28000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 64,
+      "start_ms": 29000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 62,
+      "start_ms": 30000,
+      "duration_ms": 1850
+    },
+    {
+      "midi": 60,
+      "start_ms": 32000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 60,
+      "start_ms": 33000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 67,
+      "start_ms": 34000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 67,
+      "start_ms": 35000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 69,
+      "start_ms": 36000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 69,
+      "start_ms": 37000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 67,
+      "start_ms": 38000,
+      "duration_ms": 1850
+    },
+    {
+      "midi": 65,
+      "start_ms": 40000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 65,
+      "start_ms": 41000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 64,
+      "start_ms": 42000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 64,
+      "start_ms": 43000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 62,
+      "start_ms": 44000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 62,
+      "start_ms": 45000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 60,
+      "start_ms": 46000,
+      "duration_ms": 1850
+    }
+  ]
+}
