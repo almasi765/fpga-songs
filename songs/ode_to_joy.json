@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "title": "欢乐颂 · 主题慢速练习（60 BPM）",
+  "notes": [
+    {
+      "midi": 64,
+      "start_ms": 0,
+      "duration_ms": 850
+    },
+    {
+      "midi": 64,
+      "start_ms": 1000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 65,
+      "start_ms": 2000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 67,
+      "start_ms": 3000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 67,
+      "start_ms": 4000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 65,
+      "start_ms": 5000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 64,
+      "start_ms": 6000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 62,
+      "start_ms": 7000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 60,
+      "start_ms": 8000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 60,
+      "start_ms": 9000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 62,
+      "start_ms": 10000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 64,
+      "start_ms": 11000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 64,
+      "start_ms": 12000,
+      "duration_ms": 1350
+    },
+    {
+      "midi": 62,
+      "start_ms": 13500,
+      "duration_ms": 350
+    },
+    {
+      "midi": 62,
+      "start_ms": 14000,
+      "duration_ms": 1850
+    },
+    {
+      "midi": 64,
+      "start_ms": 16000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 64,
+      "start_ms": 17000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 65,
+      "start_ms": 18000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 67,
+      "start_ms": 19000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 67,
+      "start_ms": 20000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 65,
+      "start_ms": 21000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 64,
+      "start_ms": 22000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 62,
+      "start_ms": 23000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 60,
+      "start_ms": 24000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 60,
+      "start_ms": 25000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 62,
+      "start_ms": 26000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 64,
+      "start_ms": 27000,
+      "duration_ms": 850
+    },
+    {
+      "midi": 62,
+      "start_ms": 28000,
+      "duration_ms": 1350
+    },
+    {
+      "midi": 60,
+      "start_ms": 29500,
+      "duration_ms": 350
+    },
+    {
+      "midi": 60,
+      "start_ms": 30000,
+      "duration_ms": 1850
+    }
+  ]
+}
