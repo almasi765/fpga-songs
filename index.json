@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "songs": [
+    {
+      "id": "twinkle",
+      "title": "小星星",
+      "file": "songs/twinkle.json"
+    }
+  ]
+}
