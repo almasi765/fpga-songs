@@ -5,6 +5,16 @@
       "id": "twinkle",
       "title": "小星星",
       "file": "songs/twinkle.json"
+    },
+    {
+      "id": "happy_birthday",
+      "title": "生日快乐",
+      "file": "songs/happy_birthday.json"
+    },
+    {
+      "id": "ode_to_joy",
+      "title": "欢乐颂",
+      "file": "songs/ode_to_joy.json"
     }
   ]
 }
